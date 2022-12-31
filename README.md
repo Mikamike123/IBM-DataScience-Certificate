@@ -1,2 +1,2 @@
 # IBM-DataScience-Certificate
-Coursera courses
+This repository aims at tracking my coding files all along my Coursera IBM courses
