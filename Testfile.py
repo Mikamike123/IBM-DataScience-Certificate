@@ -1,2 +1,2 @@
 #New file
-print ('Hello')
+print ('HelloHello')
